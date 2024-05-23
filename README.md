@@ -4,6 +4,7 @@ Note- Plugin folder is not added in this -- contact on (your.rajverma12@gmail.co
 Employee Leave Management System (ELMS)
 The Employee Leave Management System (ELMS) is an Intranet-based application designed to automate the workflow of leave applications and their approvals. This system can be accessed throughout the organization or within a specified department or group, providing a seamless and efficient way to manage employee leave requests.
 
+
 Project Overview
 Project Name: Employee Leave Management System (ELMS)
 Languages Used: PHP 5.6, PHP 7.x
@@ -11,7 +12,8 @@ Database: MySQL 5.x
 User Interface Design: HTML, AJAX, jQuery, JavaScript
 Compatible Web Browsers: Mozilla Firefox, Google Chrome, IE8, Opera
 Software Requirements: XAMPP / WAMP / MAMP / LAMP (any one)
-Last Updated: 03 September 2023
+Last Updated: 2 feb 2024
+
 Modules
 Admin Module
 Add/update/delete leave types and departments.
